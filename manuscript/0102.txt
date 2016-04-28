@@ -29,46 +29,27 @@ We're very good at spotting movement. It's something we've evolved to do. Adding
 
 We can also use animation to introduce content to a page:
 
-<div class="example">
-<img src="http://s3.amazonaws.com/course-images/list_item.gif" style="max-width: 200px; margin: 24px auto 0; display: block;">
-
-<p class="source"><a href="https://cssanimation.rocks/list-items/">Source</a></p>
-</div>
+![Animating list items (https://cssanimation.rocks/list-items/)](http://s3.amazonaws.com/course-images/list_item.gif)
 
 By animating information onto the page, we give our viewers an extra piece of information that might otherwise be missing. The animation both draws attention to the new content being added and gives context to that new information. Without animation it would just suddenly appear, possibly leaving the viewer unsure of whether it was there all along.
 
 We can use animation to tell a story:
 
-<div class="example">
-<img src="http://s3.amazonaws.com/course-images/portal.gif" style="max-width: 300px; margin: 24px auto 0; display: block;">
+![Portal animation (http://hop.ie/portal/)](http://s3.amazonaws.com/course-images/portal.gif)
 
-<p class="source"><a href="http://hop.ie/portal/">Source</a></p>
-</div>
+The above is based on an instructional video for the game "Portal". However, telling stories through our content doensn't always need to be so literal. We can add subtle movement to show how data changes in a chart, like this example from [Sprout](http://sprout.is):
 
-The above clip is based on an intructional video for the game "Portal". However, telling stories through our content doensn't always need to be so literal. We can add subtle movement to show how data changes in a chart, like this example from [Sprout](http://sprout.is):
-
-<div class="example">
-<img src="http://s3.amazonaws.com/course-images/sprout.gif" style="max-width: 200px; margin: 24px auto 0; display: block;">
-
-<p class="source"><a href="http://sprout.is">Source</a></p>
-</div>
+![Animated chart from Sprout](http://s3.amazonaws.com/course-images/sprout.gif)
 
 ## With great power comes great responsibility
 
-It's easy to do too much with animation. Having too many things moving around on the page at once is distracting.
-
-You may be noticing it right now, with those animations in-line in the page. It's usually a good idea to try to do *less* animation when possible. Any movement you do add will be all the more powerful.
+It's easy to do too much with animation. Having too many things moving around on the page at once is distracting. It's usually a good idea to try to do *less* animation when possible. Any movement you do add will be all the more powerful.
 
 This might mean only moving a small item on your page. Doing less.
 
 Having said that, if you want to create more of a "wow" effect with larger animations, you can do so. If you do, make sure and stop when it's time for your viewers to focus on the content. This example from Rally does just that, with lots of movement going on that stops when it's time to read the menu content:
 
-<div class="example">
-<img src="http://s3.amazonaws.com/course-images/ribbon.gif" style="max-width: 300px; margin: 24px auto 0; display: block;">
-
-<p class="source"><a href="http://beta.rallyinteractive.com/national-parks/">Source</a></p>
-</div>
-
+![National Parks from Rally Interactive (http://beta.rallyinteractive.com/national-parks/)](http://s3.amazonaws.com/course-images/ribbon.gif)
 
 ## Inspiration
 
