@@ -1,0 +1,83 @@
+
+# Animations
+
+So far we've discussed why we animate, found some sources of inspiration, looked at tools and sites we might find useful for development, and learned what transitions are.
+
+Before we finish up for the week, I'd like to introduce the `animation` property.
+
+## Animation in the browser
+
+Transitions and animations are similar. Both take the form of a CSS property, and have duration, delay and other ways of controlling how the browser creates the movement.
+
+However while transitions are all about smoothing the change from state A to state B, animations are a way to describe multiple steps.
+
+<img src="http://s3.amazonaws.com/course-images/ab.png" style="max-width: 400px; margin: 24px auto 0; display: block;">
+
+<p class="source" style="margin-top: -38px">Transition: A to B</p>
+
+<img src="http://s3.amazonaws.com/course-images/abc.png" style="max-width: 400px; margin: 24px auto 0; display: block;">
+
+<p class="source">Animation: A, B, C (or more)</p>
+
+Animations are useful for more complex movement in the browser. In the above example, there are 3 states (A, B and C). A transition would only go from A to C while an animation allows us to specify what step B looks like and make sure the animation follows all three steps.
+
+Animations also behave a little differently. They can begin automatically. While a transition might require adding a class or a change of state such as hovering, animations can start when the page loads.
+
+This means that if telling a story or drawing attention to something on a page, animations can be a good choice.
+
+## Examples
+
+The "Save" button movement we see on Codepen is a good example of a practical animation.
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/save_button.gif" style="max-width: 200px; margin: 24px auto 0; display: block;">
+  <p class="source"><a href="http://codepen.io/donovanh/pen/KwEQdQ">Source</a></p>
+</div>
+
+It does a great job helping people notice the button.
+
+The effect is made up of a series of `keyframes` that tell the browser to shake the button from left to right. We'll dig more into keyframes in greater depth in week 3.
+
+Another example is the landing page for [Fabric](https://get.fabric.io/), an app building platform from Twitter. CSS Animation is used nicely here to help communicate the modular aspect of Fabric, and establish credibility at the same time:
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/fabric.gif" style="max-width: 200px; margin: 24px auto 0; display: block;">
+  <p class="source"><a href="https://get.fabric.io/">Source</a></p>
+</div>
+
+Lastly an example from a conference teaser site I made last year. This is a CSS Mac Plus, created to show off the welcome message on [theWeb.is teaser site](http://theweb.is).
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/macplus.gif" style="max-width: 300px; margin: 24px auto 0; display: block;">
+</div>
+
+This CSS Mac Plus is [available on CodePen](http://codepen.io/donovanh/full/HGqjp/) and here's a [step-by-step guide](https://cssanimation.rocks/macplus/) to building it.
+
+
+## Transitions vs. Animations
+
+Transitions are when the browser animates from one state to another (A to B). They're usually triggered by an action such hovering over an element, or adding/removing a class using JavaScript.
+
+Animations are more involved, and let you create sequences of animations with as many keyframes as you need along the way. They trigger automatically, and can loop.
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/transitions-animations.gif" style="max-width: 320px; margin: 24px auto 0; display: block;">
+  <p class="source"><a href="https://cssanimation.rocks/transition-vs-animation/">Source</a></p>
+</div>
+
+We'll take some time to work on the animation property in week three. In the meantime do look out for interesting uses of animations online, and let me know if you'd like to see them included!
+
+<div class="callout">
+  <h2>Homework</h2>
+  <p>Can you think of ways animations might be used on your web pages? Keep an eye open for animation when browsing. Look out for when something moves in a way that calls attention to itself. In these cases it's usually an animation.</p>
+  <p>If you've downloaded the starter HTML and CSS, take a look for the animation property. Unlike transitions, animations need a second part, called <code>keyframes</code>. Try changing some values and see what happens.
+</div>
+
+## Tell the world!
+
+You've completed week 1. I'm looking forward to week two, but in the meantime, how about letting everyone know how you're getting on? Here's an example tweet:
+
+<div class="callout">
+  <h4>I completed week one of CSS Animation 101, introducing animation</h4>
+  <p><a href="https://twitter.com/intent/tweet/?text=I%20completed%20week%20one%20of%20CSS%20Animation%20101%2C%20introducing%20animation%20&url=https%3A%2F%2Fcssanimation.rocks%2Fcourses%2Fanimation-101%2F">Tweet this!</a></p>
+</div>
