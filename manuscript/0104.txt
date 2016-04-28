@@ -1,0 +1,61 @@
+
+# Transitions
+
+Let's look at the `transition` property.
+
+Browsers used to be much more simple. It wasn't so long ago that they couldn't render images or handle more than a handful of fonts. Then CSS gave us power over how web pages look and feel.
+
+Animation in browsers isn't new. Flash, Canvas and other JavaScript options have given us ways to animate but more recently CSS has become a viable option.
+
+## Transitions
+
+One way CSS lets us control animation in the browser with the `transition` property. In browser terms, a transition is an animation from one state to another.
+
+
+<img src="http://s3.amazonaws.com/course-images/ab.png" style="max-width: 400px; margin: 24px auto; display: block;">
+
+When we use a transition on an element we tell the browser that we want it to *interpolate*, or automatically calculate, the change between states.
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/ab.gif" style="max-width: 200px; margin: 24px auto 0; display: block;">
+  <p class="source"><a href="http://codepen.io/donovanh/pen/RNdxqw">Source</a></p>
+</div>
+
+For example we can change an element's style on hover, apply a transition, and the browser will create a smooth animation between the element's starting style and it's new style.
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/button.gif" style="max-width: 200px; margin: 24px auto 0; display: block;">
+  <p class="source"><a href="http://codepen.io/donovanh/pen/MYQdZd">Source</a></p>
+</div>
+
+## Transition properties
+
+When we use a transition on an element, there are all sorts of properties that change how the transition works. We can make it slow or fast, delay it, and even control the rate of change using timing functions. We'll delve into what these mean next week, but here's a nice example of what happens when we combine several transitions:
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/winnie.gif" style="max-width: 360px; margin: 24px auto 0; display: block;">
+  <p class="source"><a href="http://in-ni.com/">Source</a></p>
+</div>
+
+Another example of combined transitions:
+
+<div class="example">
+  <img src="http://s3.amazonaws.com/course-images/transitions.gif" style="max-width: 320px; margin: 24px auto 0; display: block;">
+  <p class="source"><a href="http://codepen.io/suez/pen/XJGOyL">Source</a></p>
+</div>
+
+Next week we will discuss how to use transitions to make these sorts of movements.
+
+## In summary
+
+A transition is the change from one state to another. For example, when hovering over an element, its style might change. Transitions allow the change to become a smooth animation.
+
+<div class="callout">
+  <h2>Homework</h2>
+
+  <p>How's your creative environment looking? How about taking a look into the code, and looking for the <code>transition</code> property in the CSS. Can you see what it's doing? (Don't worry if not, we'll dig into what this stuff is all about soon)</p>
+
+  <p>Between now and tomorrow's email, try to keep your eyes open for examples of transitions as you navigate web pages. Look for interesting changes that happen when something changes, such as when a new element is added to a page, or you hover over a button.</p>
+</div>
+
+**Tomorrow:** An overview of the `animation` property and how it differs from `transition`.
