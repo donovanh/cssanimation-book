@@ -1,7 +1,8 @@
 
 # Why animate?
 
->“Animation is about creating the illusion of life.”
+>"Animation is about creating the illusion of life."
+
 >*Brad Bird*
 
 Before we get into the technical side of CSS animation, let's discuss **why** we're animating in the first place.
@@ -22,7 +23,7 @@ If we're keeping in mind the two main benefits of animation, conveying informati
 
 Animation can be subtle, like when the CodePen save button wiggles a little to remind us when we need to save our work:
 
-![[Source](http://codepen.io/donovanh/pen/KwEQdQ)](http://s3.amazonaws.com/course-images/save_button.gif)
+![Animated "Save" button (http://codepen.io/donovanh/pen/KwEQdQ)](http://s3.amazonaws.com/course-images/save_button.gif)
 
 We're very good at spotting movement. It's something we've evolved to do. Adding a little animation here and there can introduce some of that "illusion of life" in a very subtle way.
 
