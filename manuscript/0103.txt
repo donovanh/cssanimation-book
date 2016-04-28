@@ -1,10 +1,9 @@
 
 # Creative environments
 
-<div class="quote callout">
-  “You don't learn to walk by following rules. You learn by doing, and by falling over.”
-  <span>Richard Branson</span>
-</div>
+> "You don't learn to walk by following rules. You learn by doing, and by falling over."
+
+> Richard Branson
 
 Today we're going to look at ways we can build and see our CSS animations in the browser. Before we get started with the coding, it's a good idea to have a workflow that makes it easy to get started.
 
@@ -28,7 +27,7 @@ The most simple option is to create a HTML file *(filename.html)* and an associa
 
 I've created a set of HTML and CSS files you can copy and use to begin creating. [Download them here](https://github.com/cssanimation/starter/archive/master.zip).
 
-<img src="http://s3.amazonaws.com/course-images/files.jpg" style="max-width: 380px; margin: 24px auto; display: block;">
+![Starting files](http://s3.amazonaws.com/course-images/files.jpg)
 
 ### Dreamweaver / Macaw / Muse / Coda / Sublime
 
@@ -52,20 +51,13 @@ Do improve it if you wish and push the results back. Teamwork!
 
 As we progress through the month, feel free to try different ways to create your code. You might want to host it yourself, or you might prefer to use CodePen. Either is good. The main goal is to make sure you can get from idea to code as smoothly as you need to.
 
-<div class="callout">
+## Homework
 
-  <h2>Homework</h2>
+Register with [CodePen](http://codepen.io). Have a go adding some HTML and CSS, and see how the results change in response. It's also a good idea to check out some of the featured CodePens on the home page, and see how it's done.
 
-  <p>Register with <a href="http://codepen.io">CodePen</a>. Have a go adding some HTML and CSS, and see how the results change in response. It's also a good idea to check out some of the featured CodePens on the home page, and see how it's done.</p>
+*Optional:* If you want to try local development, download local starting files:
 
-  <p><em>Optional:</em> If you want to try local development, download local starting files:</p>
+* Basic option: [Project starter HTML/CSS files](https://github.com/cssanimation/starter/archive/master.zip)
+* Advanced: [Gulp & Sass starter](https://github.com/cssanimation/gulp-sass-starter)
 
-  <ul>
-    <li>Basic option: <a href="https://github.com/cssanimation/starter/archive/master.zip">Project starter HTML/CSS files</a></li>
-    <li>Advanced: <a href="https://github.com/cssanimation/gulp-sass-starter">Gulp &amp; Sass starter</a></li>
-  </ul>
-
-</div>
-
-
-**Tomorrow:** We'll be talking about transitions!
+**Next:** We'll be talking about transitions!
