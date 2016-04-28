@@ -1,10 +1,8 @@
 
 # Why animate?
 
-<div class="quote callout">
-  “Animation is about creating the illusion of life.”
-  <span>Brad Bird</span>
-</div>
+>“Animation is about creating the illusion of life.”
+>*Brad Bird*
 
 Before we get into the technical side of CSS animation, let's discuss **why** we're animating in the first place.
 
@@ -24,11 +22,7 @@ If we're keeping in mind the two main benefits of animation, conveying informati
 
 Animation can be subtle, like when the CodePen save button wiggles a little to remind us when we need to save our work:
 
-<div class="example">
-<img src="http://s3.amazonaws.com/course-images/save_button.gif" style="max-width: 200px; margin: 24px auto 0; display: block;">
-
-<p class="source"><a href="http://codepen.io/donovanh/pen/KwEQdQ">Source</a></p>
-</div>
+![[Source](http://codepen.io/donovanh/pen/KwEQdQ)](http://s3.amazonaws.com/course-images/save_button.gif)
 
 We're very good at spotting movement. It's something we've evolved to do. Adding a little animation here and there can introduce some of that "illusion of life" in a very subtle way.
 
@@ -92,11 +86,12 @@ For example, here's a nice example from Dribbble showing [Google's Material Desi
 * Use it to grab attention or convey information
 * Don't overdo it
 
-<div class="callout">
-  <h2>Homework</h2>
-  <p>Think about your own work and how animation might help.</p>
-  <p>It's tempting to go crazy and animate all the things, but try to look for ways subtle animation might better *help* your visitors understand the content. Is there a call-to-action on your page people are missing? Is there a sudden change in your page that's happening too suddenly, and could benefit from a smoother transition?</p>
-  <p>Lastly, take a look at sites like <a href="http://hoverstat.es/">Hover States</a> and <a href="http://littlebigdetails.com/">Little Big Details</a> and <a href="https://dribbble.com/">Dribbble</a>. These sorts of sites help if you're ever stuck for ideas.</p>
-</div>
+## Homework
 
-**Tomorrow:** We'll be looking at tools we can use to easily start and create new projects.
+Think about your own work and how animation might help.
+
+It's tempting to go crazy and animate all the things, but try to look for ways subtle animation might better *help* your visitors understand the content. Is there a call-to-action on your page people are missing? Is there a sudden change in your page that's happening too suddenly, and could benefit from a smoother transition?
+
+Lastly, take a look at sites like <a href="http://hoverstat.es/">Hover States</a> and <a href="http://littlebigdetails.com/">Little Big Details</a> and <a href="https://dribbble.com/">Dribbble</a>. These sorts of sites help if you're ever stuck for ideas.
+
+**Next:** We'll be looking at tools we can use to easily start and create new projects.
