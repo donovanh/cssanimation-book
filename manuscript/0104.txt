@@ -15,7 +15,7 @@ One way CSS lets us control animation in the browser with the `transition` prope
 
 When we use a transition on an element we tell the browser that we want it to *interpolate*, or automatically calculate, the change between states.
 
-![Animated transition from A to B (http://codepen.io/donovanh/pen/RNdxqw)](http://s3.amazonaws.com/course-images/ab.gif)
+![Animated transition from A to B (http://codepen.io/donovanh/pen/RNdxqw)](images/ab.png)
 
 For example we can change an element's style on hover, apply a transition, and the browser will create a smooth animation between the element's starting style and it's new style.
 
