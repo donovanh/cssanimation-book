@@ -1,13 +1,11 @@
-
 # Welcome
 
 > "Tell me and I forget. Teach me and I remember. Involve me and I learn."
+> _Benjamin Franklin_
 
-> *Benjamin Franklin*
+Welcome to CSS Animation 101, and thank you for choosing this book.
 
-**Welcome to CSS Animation 101!**
-
-I'm delighted you've chosen to take part in this course, and hope you find it helpful and fun. Over the next four weeks we're going to learn about CSS *transitions* and *animations*. By the end you'll have a good understanding of CSS animations as well as the tools to create and experiment with our own.
+I'm delighted you've chosen to learn CSS animation. This book is a light and fun introduction to the topic, and I hope you find it helpful. We're going to learn about CSS _transitions_ and _animations_. By the end you'll have a good understanding of CSS animations as well as the tools to create and experiment with our own.
 
 There will be both theory and practical examples. We'll learn how to easily create your own working environment, and look at lots of examples of animation along the way.
 
@@ -15,29 +13,29 @@ There will be both theory and practical examples. We'll learn how to easily crea
 
 ![Donovan Hutchinson](images/donovan.jpg)
 
-I've been writing articles about CSS and other topics for the best part of a decade. I've also been designing and developing websites since the late 90's. More recently, I've written for Smashing Magazine, Net Magazine, Tuts+, Adobe Inspire and more. I post random stuff at Hop.ie, and this year I've been writing tutorials on cssanimation.rocks, all about advanced and useful animations in the browser.
+I've been writing articles about CSS and other topics for the best part of a decade. I've also been designing and developing websites since the late 90's. More recently, I've written for Smashing Magazine, Net Magazine, Tuts+, Adobe Inspire and more. I post random stuff at Hop.ie, and this year I've been writing tutorials on [CSSAnimation.rocks](https://cssanimation.rocks), all about advanced and useful animations in the browser.
 
 During my days I work as a designer and front-end developer, and I'm a big fan of combining UX principles with fun animations in design. In the evenings I write blogs and try to make sure I'm aware of what's happening in the world of web design.
 
-Thank you for joining me. Over the next four weeks we'll cover a lot of material. The goal is to make sure we understand what the `transition` and `animation` properties are for, how they work, and see them in action. Do feel free to save and pick up the course at your own pace.
+This book is an introduction to the topic of CSS animation, but along the way we'll cover a lot of material. The goal is to make sure we understand what the `transition` and `animation` properties are for, how they work, and see them in action.
 
-(You can also reply to any of these emails and it'll come directly to me, or tweet me at [@donovanh](https://twitter.com/donovanh) at any time.)
+By the end of this book you should be confident enough to begin applying animation to your projects.
 
-## Course Structure
+## Book structure
 
-Here's the plan for the next four weeks.
+Here's what we're going to cover.
 
-**Week 1:** What's animation anyway? This week we'll look at why we animate. We'll also introduce the `transition` and `animation` properties and some sources of inspiration.
+**First:** What's animation anyway? This week we'll look at why we animate. We'll also introduce the `transition` and `animation` properties and some sources of inspiration.
 
-**Week 2:** All about the **transition** property. We'll learn how transitions work, and the properties we can control to change the movement.
+**Then:** All about the **transition** property. We'll learn how transitions work, and the properties we can control to change the movement.
 
-**Week 3:** We'll take on the **animation** property, and learn how to create keyframes that go beyond simple transitions.
+**After that:** We'll take on the **animation** property, and learn how to create keyframes that go beyond simple transitions.
 
-**Week 4:** Bringing it all together. We'll put together some advanced examples that make use of both, look into how we can make sure our work is accessible, and share some helpful CSS resources we can apply to projects, and JavaScript tools we can use for more advanced effects.
+**Lastly:** Bringing it all together. We'll put together some advanced examples that make use of both, look into how we can make sure our work is accessible, and share some helpful CSS resources we can apply to projects, and JavaScript tools we can use for more advanced effects.
 
-## Bonus stuff
+## Help and support
 
-Along the way I'll be sharing tools to help develop animations locally, a fancy CSS animation cheat sheet, and you'll even get a super-rare Happy Rock&trade; sticker!
+I love to hear from you with your questions and thoughts. Feel free to drop me an email at [donovan@cssanimation.rocks](mailto:donovan@cssanimation.rocks), or tweet me at [@donovanh](https://twitter.com/donovanh) at any time.
 
 ## Need to brush up on your CSS?
 
@@ -47,3 +45,9 @@ Some online tools and resources you might find helpful:
 
 * [Interactive HTML/CSS tutorials](http://www.codeavengers.com)
 * [Learn to Code HTML&CSS](http://learn.shayhowe.com/html-css/)
+
+## Homework
+
+You'll notice each chapter ends with a little **homework** section. This is entirely up to you but if you like you can use this to help with your learning. Each homework section will have a suggestion for something to try or think about. Give it a little time and you'll find your understanding of CSS animation will be even better.
+
+**Ready?** Let's learn all about CSS animation!
